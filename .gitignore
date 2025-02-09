@@ -1,0 +1,15 @@
+.env
+.env.*
+node_modules
+build
+.next
+.out
+.DS_Store
+dist
+
+# Yarn Integrity File
+.yarn
+
+.venv
+
+logs
